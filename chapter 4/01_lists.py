@@ -12,6 +12,6 @@ a[0] = 98
 print(a)
 
 # We can create a list with items of different types
-c = [45, "Harry", False, 6.9]
+c = [45, "vikram", False, 6.9]
 print(c)
 
